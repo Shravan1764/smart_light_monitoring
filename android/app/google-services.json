@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707128637183",
+    "project_id": "monito-5baa0",
+    "storage_bucket": "monito-5baa0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707128637183:android:3365d4657f65f23fbcfeca",
+        "android_client_info": {
+          "package_name": "com.example.smart_light_monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt2hqqt_zZe8V9oedlGhsZrhFvl-IYvOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
